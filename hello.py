@@ -1,7 +1,5 @@
-#Este es un comentario en linea
+#esto es un comentario de linea
 '''
-Este es un comentario en bloque
-
+esto es un comentario de bloque
 '''
-
-print ("Bienvenidos")
+print("Bienvenidos")
